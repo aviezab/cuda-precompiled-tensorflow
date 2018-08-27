@@ -2,6 +2,6 @@
 I have compiled CUDA enabled tensorflow, anyone can use this repo freely.
 
 To use this library:
-'''bash
+```bash
 pip isntall (name of whl).whl
-'''
+```
